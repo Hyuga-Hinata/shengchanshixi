@@ -1,0 +1,131 @@
+http://cdmd.cnki.com.cn/Article/CDMD-10212-1013236357.htm
+
+A Rule-Based Self-Learning Model for Automatic Evaluation and Grading of C++ Programs   January 2018
+
+https://www.researchgate.net/publication/320932467_A_Rule-Based_Self-Learning_Model_for_Automatic_Evaluation_and_Grading_of_C_Programs
+
+
+
+ESBMC 6.1: automated test case generation using bounded model checking     18 May 2020
+
+https://link.springer.com/article/10.1007/s10009-020-00571-2
+
+
+
+SLDeep: Statement-level software defect prediction using deep-learning model on static code features    1 June 2020
+
+https://www.sciencedirect.com/science/article/pii/S0957417419308735
+
+
+
+Design and Implementation of Automatic Exercises Evaluation System for Programming Courses    2020
+
+https://iopscience.iop.org/article/10.1088/1742-6596/1651/1/012021/pdf
+
+
+
+Automatic Code Optimization With Machine Learning And Combinatorial Optimization    June 2020
+
+https://www.researchgate.net/profile/Kamel_Abdous/publication/343322212_Automatic_Code_Optimization_With_Machine_Learning_And_Combinatorial_Optimization/links/5f9d461ba6fdccfd7b8df9b1/Automatic-Code-Optimization-With-Machine-Learning-And-Combinatorial-Optimization.pdf
+
+
+
+Chapter Two - ALGator—An automatic algorithm evaluation system    31 July 2019
+
+https://www.sciencedirect.com/science/article/pii/S0065245819300282?via%3Dihub
+
+
+
+Identifying Evidences of Computer Programming Skills Through Automatic Source Code Evaluation    November 2020
+
+https://sol.sbc.org.br/index.php/wcbie/article/view/13019/12872
+
+
+
+CodeBLEU: a Method for Automatic Evaluation of Code Synthesis    22 Sep 2020
+
+https://arxiv.org/pdf/2009.10297.pdf
+
+
+
+Use of Automatic Code Assessment Tools in the Programming Teaching Process    2020.4
+
+https://drops.dagstuhl.de/opus/volltexte/2020/12291/pdf/OASIcs-ICPEC-2020-4.pdf
+
+
+
+Application of K-Means Algorithm for Clustering Student's Computer Programming Performance in Automatic Programming Assessment Tool     24 November 2020
+
+https://www.atlantis-press.com/proceedings/ijcse-20/125946370
+
+
+Supporting Students in C++ Programming Courses with Automatic Program Style Assessment    January 2004
+https://www.researchgate.net/publication/220590602_Supporting_Students_in_C_Programming_Courses_with_Automatic_Program_Style_Assessment
+
+Implementation Strategy for Code Analyser Component of Rule-Based Self-Learning Model for Automatic Evaluation of C++ Programs     January 2019
+https://www.researchgate.net/publication/329685823_Implementation_Strategy_for_Code_Analyser_Component_of_Rule-Based_Self-Learning_Model_for_Automatic_Evaluation_of_C_Programs_Proceedings_of_ICTIS_2018_Volume_2
+
+AutoEval and Missplel: Two Generic Tools for Automatic Evaluation    2003
+http://www.johnnybigert.se/docs/Bigert03tools.pdf
+
+Automatic evaluation of correctness and originality of source codes    14-16 May 2014
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6877393
+
+An automated assessment system for analysis of coding convention violations in Java programming assignments    September 2018
+https://www.researchgate.net/publication/327672729_An_automated_assessment_system_for_analysis_of_coding_convention_violations_in_Java_programming_assignments
+
+A new Internet tool for automatic evaluation in Control Systemsand Programming    2 March 2012
+https://reader.elsevier.com/reader/sd/pii/S0360131511003320?token=45DEED23C258BC564D123AD0B903872B31C3F4E0601B7202077076F792688823603BDEDB7E46D5D69967BC9E2A3B61DD
+
+Visual programming and automatic evaluation of exercises: an experience with a STEM course    12-15 Oct. 2016
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7757621
+
+Improving the Automatic Evaluation of Problem Solutions in Programming Contests    2009
+https://ioinformatics.org/journal/INFOL048.pdf
+
+Animation and Automatic Evaluation to Support Programming Teaching     17-20 June 2015
+https://www.scitepress.org/papers/2015/55325/55325.pdf
+
+A METHOD FOR SEMI-AUTOMATIC EVALUATION AND TESTING OF PROGRAMMING ASSIGNMENTS    July 2012
+https://www.mii.lt/files/doc/lt/doktorantura/apgintos_disertacijos/mii_dis_san_2013_skupas.pdf
+
+
+On the Suitability of Programming Tasks for Automated Evaluation    2006
+https://www.semanticscholar.org/paper/On-the-Suitability-of-Programming-Tasks-for-Forisek/bf1623d725e2feba0c9e3dc8b9cf82843013c233
+
+Evaluating CoBlox: A Comparative Study of Robotics Programming Environments for Adult Novices    April 2018
+https://dl.acm.org/doi/abs/10.1145/3173574.3173940
+
+Flexible automatic evaluation of dynamic and static properties of code      December 2018
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8590145
+
+A System for Automatic Evaluation of Programs for Correctness and Performance
+https://link.springer.com/chapter/10.1007/978-3-540-74063-6_29
+
+Is automatic evaluation useful for the maturity programming exam?     November 2008
+https://dl.acm.org/doi/abs/10.1145/1595356.1595382
+
+Automatic Evaluation System for Student Code     2015
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.734.9651&rep=rep1&type=pdf
+
+A Rule-Based Self-Learning Model for Automatic Evaluation and Grading of C++ Programs     January 2018
+https://www.researchgate.net/publication/320932467_A_Rule-Based_Self-Learning_Model_for_Automatic_Evaluation_and_Grading_of_C_Programs
+
+Teaching Programming at Scale     June 2019
+http://ceur-ws.org/Vol-2531/paper01.pdf
+
+Automatic Assessment of Student Homework and Personalized Recommendation     July 2020
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9155651
+
+Efficient plagiarism detection for software modeling assignments     Jan 14, 2020
+https://www.tandfonline.com/doi/full/10.1080/08993408.2020.1711495
+
+a tool for the creation and assessment of student learning activities in complex open, online, and flexible learning environments       01 Mar 2020
+https://www.tandfonline.com/doi/full/10.1080/01587919.2020.1724769?scroll=top&needAccess=true
+
+ALOHA - a grading tool for semi-automatic assessment of mass programming courses    February 2006
+https://dl.acm.org/doi/abs/10.1145/1315803.1315830
+
+An Empirical Study of Iterative Improvement in Programming Assignments    February 2015
+https://dl.acm.org/doi/abs/10.1145/2676723.2677279
+
